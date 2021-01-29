@@ -1,0 +1,25 @@
+.wrapper {
+  border: 2px solid blue;
+  max-width: 50%;
+  padding: 1em;
+}
+h1 {
+  color: blue;
+}
+.input-row {
+  margin: 0.8em;
+}
+label {
+  width: 35%;
+  display: inline-block;
+  text-align: right;
+}
+#submit{
+   display: inline-block;
+   text-align: right;
+}
+textarea{
+    width: 500px;
+    height: 100px;
+    margin: 0.8em;
+}
